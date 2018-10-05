@@ -1,0 +1,24 @@
+/*I did not have time to style this. I hope That's okay for this assignment*/
+
+:placeholder-shown {
+    font-style: italic;
+    opacity: 0.5;
+}
+
+i {
+    text-align: center;
+}
+
+.nav {
+    background-color: gray;
+}
+
+.entry {
+    background-color: rgb(177, 173, 173);
+    width: 200px;
+    border: solid;
+    border-width: 1px;
+    margin: 20px;
+    padding: 10px;
+    font-family: fantasy;
+}
